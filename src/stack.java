@@ -1,14 +1,16 @@
 package src;
-//import lib.*;
+import lib.*;
 import java.util.Scanner;
 //@SuppressWarnings("unused")
 
 //lib is disabled for now, this class is from lib
+/*
 class console {
     public static void clear() {
         System.out.print("\033[H\033[2J");
     }
 }
+*/
 
 public class stack
 {
