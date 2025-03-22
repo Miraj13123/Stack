@@ -101,12 +101,13 @@ public class stack
     private void menu()
     {
         display();
+	System.out.print("0. Exit\n");
         System.out.print("1. Push\n");
         System.out.print("2. Pop\n");
         System.out.print("3. Peek\n");
         System.out.print("4. isEmpty\n");
         System.out.print("5. isFull\n");
-        System.out.print("6. Push\n");
+        System.out.print("9. Display\n");
         //System.out.print("9. Display\n");
         input();
     }
